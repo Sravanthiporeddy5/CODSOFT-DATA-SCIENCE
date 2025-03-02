@@ -10,7 +10,7 @@ The CodSoft Data Science Internship provides an opportunity to work on real-worl
 📦 CODSOFT
 ├── 📁 Task 1 - Titanic Survival Prediction
 │   ├── dataset.csv
-│   ├── titanic_survival__prediction.ipynb
+│   ├── titanic_survival_prediction.ipynb
 │   ├── README.md
 │   ├── results.png
 │
