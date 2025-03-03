@@ -82,7 +82,7 @@ The CodSoft Data Science Internship provides an opportunity to work on real-worl
 ## 📞 Contact
 For any queries, feel free to reach out:
 - **Email:** poreddysravanthi58@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/sravanthi-p-269726293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- **LinkedIn:** https://www.linkedin.com/in/sravanthi-p-269726293/
 - **GitHub:** https://github.com/Sravanthiporeddy5
 
 
