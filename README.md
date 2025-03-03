@@ -49,6 +49,7 @@ The CodSoft Data Science Internship provides an opportunity to work on real-worl
 
 ## 🛠️ Tools & Technologies Used
 - **Python** (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn)
+- **Google Colab**
 - **Jupyter Notebook**
 - **Machine Learning Algorithms** (Logistic Regression, Decision Trees, Random Forest, SVM, etc.)
 
